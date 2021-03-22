@@ -1,5 +1,5 @@
 
-public class pattern {
+public r pattern {
 public static void main(String args[]) {
 	int size=3;
 	for(int i=size;i>=-size;i--) {
